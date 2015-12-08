@@ -1,0 +1,2466 @@
+{
+  "version": "2015-10-20 01:47:35",
+  "list": [
+    {
+      "i": 24,
+      "ab": "af",
+      "prex": 93,
+      "name": {
+        "cn": "阿富汗",
+        "en": "Afghanistan"
+      },
+      "mcc": [
+        412
+      ]
+    },
+    {
+      "i": 86,
+      "ab": "al",
+      "prex": 355,
+      "name": {
+        "cn": "阿尔巴尼亚",
+        "en": "Albania"
+      },
+      "mcc": [
+        276
+      ]
+    },
+    {
+      "i": 54,
+      "ab": "dz",
+      "prex": 213,
+      "name": {
+        "cn": "阿尔及利亚",
+        "en": "Algeria"
+      },
+      "mcc": [
+        603
+      ]
+    },
+    {
+      "i": 84,
+      "ab": "ad",
+      "prex": 376,
+      "name": {
+        "cn": "安道尔",
+        "en": "Andorra"
+      },
+      "mcc": [
+        213
+      ]
+    },
+    {
+      "i": 182,
+      "ab": "ai",
+      "prex": 1264,
+      "name": {
+        "cn": "安圭拉",
+        "en": "Anguilla"
+      },
+      "mcc": [
+        365
+      ]
+    },
+    {
+      "i": 183,
+      "ab": "ag",
+      "prex": 1268,
+      "name": {
+        "cn": "安提瓜和巴布达",
+        "en": "Antigua and Barbuda"
+      },
+      "mcc": [
+        344
+      ]
+    },
+    {
+      "i": 9,
+      "ab": "mo",
+      "prex": 853,
+      "name": {
+        "cn": "中国澳门",
+        "en": "Aomen"
+      },
+      "mcc": [
+        455
+      ]
+    },
+    {
+      "i": 56,
+      "ab": "ar",
+      "prex": 54,
+      "name": {
+        "cn": "阿根廷",
+        "en": "Argentina"
+      },
+      "mcc": [
+        722
+      ]
+    },
+    {
+      "i": 87,
+      "ab": "am",
+      "prex": 374,
+      "name": {
+        "cn": "亚美尼亚",
+        "en": "Armenia"
+      },
+      "mcc": [
+        283
+      ]
+    },
+    {
+      "i": 184,
+      "ab": "aw",
+      "prex": 297,
+      "name": {
+        "cn": "阿鲁巴",
+        "en": "Aruba"
+      },
+      "mcc": [
+        363
+      ]
+    },
+    {
+      "i": 58,
+      "ab": "au",
+      "prex": 61,
+      "name": {
+        "cn": "澳大利亚",
+        "en": "Australia"
+      },
+      "mcc": [
+        505
+      ]
+    },
+    {
+      "i": 79,
+      "ab": "at",
+      "prex": 43,
+      "name": {
+        "cn": "奥地利",
+        "en": "Austria"
+      },
+      "mcc": [
+        232
+      ]
+    },
+    {
+      "i": 89,
+      "ab": "az",
+      "prex": 994,
+      "name": {
+        "cn": "阿塞拜疆",
+        "en": "Azerbaijan"
+      },
+      "mcc": [
+        400
+      ]
+    },
+    {
+      "i": 175,
+      "ab": "bs",
+      "prex": 1242,
+      "name": {
+        "cn": "巴哈马",
+        "en": "Bahamas"
+      },
+      "mcc": [
+        364
+      ]
+    },
+    {
+      "i": 92,
+      "ab": "bh",
+      "prex": 973,
+      "name": {
+        "cn": "巴林",
+        "en": "Bahrain"
+      },
+      "mcc": [
+        426
+      ]
+    },
+    {
+      "i": 62,
+      "ab": "bd",
+      "prex": 880,
+      "name": {
+        "cn": "孟加拉",
+        "en": "Bangladesh"
+      },
+      "mcc": [
+        470
+      ]
+    },
+    {
+      "i": 185,
+      "ab": "bb",
+      "prex": 1246,
+      "name": {
+        "cn": "巴巴多斯",
+        "en": "Barbados"
+      },
+      "mcc": [
+        342
+      ]
+    },
+    {
+      "i": 93,
+      "ab": "by",
+      "prex": 375,
+      "name": {
+        "cn": "白俄罗斯",
+        "en": "Belarus"
+      },
+      "mcc": [
+        257
+      ]
+    },
+    {
+      "i": 75,
+      "ab": "be",
+      "prex": 32,
+      "name": {
+        "cn": "比利时",
+        "en": "Belgium"
+      },
+      "mcc": [
+        206
+      ]
+    },
+    {
+      "i": 167,
+      "ab": "bz",
+      "prex": 501,
+      "name": {
+        "cn": "伯利兹",
+        "en": "Belize"
+      },
+      "mcc": [
+        702
+      ]
+    },
+    {
+      "i": 187,
+      "ab": "bm",
+      "prex": 1441,
+      "name": {
+        "cn": "百慕大(英国)",
+        "en": "Bermuda"
+      },
+      "mcc": [
+        350
+      ]
+    },
+    {
+      "i": 28,
+      "ab": "bt",
+      "prex": 975,
+      "name": {
+        "cn": "不丹",
+        "en": "Bhutan"
+      },
+      "mcc": [
+        402
+      ]
+    },
+    {
+      "i": 171,
+      "ab": "bo",
+      "prex": 591,
+      "name": {
+        "cn": "玻利维亚",
+        "en": "Bolivia"
+      },
+      "mcc": [
+        736
+      ]
+    },
+    {
+      "i": 90,
+      "ab": "ba",
+      "prex": 387,
+      "name": {
+        "cn": "波斯尼亚-黑塞哥维那",
+        "en": "Bosnia and Herzegowina"
+      },
+      "mcc": [
+        218
+      ]
+    },
+    {
+      "i": 70,
+      "ab": "br",
+      "prex": 55,
+      "name": {
+        "cn": "巴西",
+        "en": "Brazil"
+      },
+      "mcc": [
+        724
+      ]
+    },
+    {
+      "i": 27,
+      "ab": "bn",
+      "prex": 673,
+      "name": {
+        "cn": "文莱",
+        "en": "Brunei Darussalam"
+      },
+      "mcc": [
+        528
+      ]
+    },
+    {
+      "i": 91,
+      "ab": "bg",
+      "prex": 359,
+      "name": {
+        "cn": "保加利亚",
+        "en": "Bulgaria"
+      },
+      "mcc": [
+        284
+      ]
+    },
+    {
+      "i": 190,
+      "ab": "bf",
+      "prex": 226,
+      "name": {
+        "cn": "布基纳法索",
+        "en": "Burkina Faso"
+      },
+      "mcc": [
+        613
+      ]
+    },
+    {
+      "i": 55,
+      "ab": "ca",
+      "prex": 1,
+      "name": {
+        "cn": "加拿大",
+        "en": "Canada"
+      },
+      "mcc": [
+        302
+      ]
+    },
+    {
+      "i": 158,
+      "ab": "cl",
+      "prex": 56,
+      "name": {
+        "cn": "智利",
+        "en": "Chile"
+      },
+      "mcc": [
+        730
+      ]
+    },
+    {
+      "i": 7,
+      "ab": "cn",
+      "prex": 86,
+      "name": {
+        "cn": "中国",
+        "en": "China"
+      },
+      "mcc": [
+        460,
+        461
+      ]
+    },
+    {
+      "i": 166,
+      "ab": "co",
+      "prex": 57,
+      "name": {
+        "cn": "哥伦比亚",
+        "en": "Columbia"
+      },
+      "mcc": [
+        732
+      ]
+    },
+    {
+      "i": 29,
+      "ab": "ck",
+      "prex": 682,
+      "name": {
+        "cn": "库克群岛",
+        "en": "Cook Islands"
+      },
+      "mcc": [
+        548
+      ]
+    },
+    {
+      "i": 170,
+      "ab": "cu",
+      "prex": 53,
+      "name": {
+        "cn": "古巴",
+        "en": "Cuba"
+      },
+      "mcc": [
+        368
+      ]
+    },
+    {
+      "i": 196,
+      "ab": "cw",
+      "prex": 5999,
+      "name": {
+        "cn": "库拉索(荷兰王国)",
+        "en": "Curaçao"
+      },
+      "mcc": [
+        362
+      ]
+    },
+    {
+      "i": 95,
+      "ab": "cy",
+      "prex": 357,
+      "name": {
+        "cn": "塞浦路斯",
+        "en": "Cyprus"
+      },
+      "mcc": [
+        280
+      ]
+    },
+    {
+      "i": 96,
+      "ab": "cz",
+      "prex": 420,
+      "name": {
+        "cn": "捷克",
+        "en": "Czech Republic"
+      },
+      "mcc": [
+        230
+      ]
+    },
+    {
+      "i": 199,
+      "ab": "tl",
+      "prex": 670,
+      "name": {
+        "cn": "东帝汶",
+        "en": "DEMOCRATIC REPUBLIC OF TI"
+      },
+      "mcc": [
+        514
+      ]
+    },
+    {
+      "i": 76,
+      "ab": "dk",
+      "prex": 45,
+      "name": {
+        "cn": "丹麦",
+        "en": "Denmark"
+      },
+      "mcc": [
+        238
+      ]
+    },
+    {
+      "i": 173,
+      "ab": "do",
+      "prex": 1809,
+      "name": {
+        "cn": "多米尼加",
+        "en": "Dominica"
+      },
+      "mcc": [
+        370
+      ]
+    },
+    {
+      "i": 98,
+      "ab": "eg",
+      "prex": 20,
+      "name": {
+        "cn": "埃及",
+        "en": "Egypt"
+      },
+      "mcc": [
+        602
+      ]
+    },
+    {
+      "i": 97,
+      "ab": "ee",
+      "prex": 372,
+      "name": {
+        "cn": "爱沙尼亚",
+        "en": "Estonia"
+      },
+      "mcc": [
+        248
+      ]
+    },
+    {
+      "i": 159,
+      "ab": "et",
+      "prex": 251,
+      "name": {
+        "cn": "埃塞俄比亚",
+        "en": "Ethiopia"
+      },
+      "mcc": [
+        636
+      ]
+    },
+    {
+      "i": 100,
+      "ab": "fo",
+      "prex": 298,
+      "name": {
+        "cn": "法罗群岛",
+        "en": "Faroe Islands"
+      },
+      "mcc": [
+        288
+      ]
+    },
+    {
+      "i": 146,
+      "ab": "ng",
+      "prex": 234,
+      "name": {
+        "cn": "尼日利亚",
+        "en": "Federal Republic of Niger"
+      },
+      "mcc": [
+        621
+      ]
+    },
+    {
+      "i": 31,
+      "ab": "fj",
+      "prex": 679,
+      "name": {
+        "cn": "斐济",
+        "en": "Fiji"
+      },
+      "mcc": [
+        542
+      ]
+    },
+    {
+      "i": 82,
+      "ab": "fi",
+      "prex": 358,
+      "name": {
+        "cn": "芬兰",
+        "en": "Finland"
+      },
+      "mcc": [
+        244
+      ]
+    },
+    {
+      "i": 32,
+      "ab": "fr",
+      "prex": 33,
+      "name": {
+        "cn": "法国",
+        "en": "France"
+      },
+      "mcc": [
+        208
+      ]
+    },
+    {
+      "i": 42,
+      "ab": "pf",
+      "prex": 689,
+      "name": {
+        "cn": "法属波利尼西亚",
+        "en": "French Polynesia"
+      },
+      "mcc": [
+        547
+      ]
+    },
+    {
+      "i": 101,
+      "ab": "ge",
+      "prex": 995,
+      "name": {
+        "cn": "格鲁吉亚",
+        "en": "Georgia"
+      },
+      "mcc": [
+        282
+      ]
+    },
+    {
+      "i": 13,
+      "ab": "de",
+      "prex": 49,
+      "name": {
+        "cn": "德国",
+        "en": "Germany"
+      },
+      "mcc": [
+        262
+      ]
+    },
+    {
+      "i": 103,
+      "ab": "gi",
+      "prex": 350,
+      "name": {
+        "cn": "直布罗陀",
+        "en": "Gibraltar"
+      },
+      "mcc": [
+        266
+      ]
+    },
+    {
+      "i": 33,
+      "ab": "uk",
+      "prex": 44,
+      "name": {
+        "cn": "英国",
+        "en": "Great Britain"
+      },
+      "mcc": [
+        234,
+        235
+      ]
+    },
+    {
+      "i": 72,
+      "ab": "gr",
+      "prex": 30,
+      "name": {
+        "cn": "希腊",
+        "en": "Greece"
+      },
+      "mcc": [
+        202
+      ]
+    },
+    {
+      "i": 104,
+      "ab": "gl",
+      "prex": 299,
+      "name": {
+        "cn": "格陵兰岛",
+        "en": "Greenland"
+      },
+      "mcc": [
+        290
+      ]
+    },
+    {
+      "i": 205,
+      "ab": "gd",
+      "prex": 1473,
+      "name": {
+        "cn": "格林纳达",
+        "en": "Grenada"
+      },
+      "mcc": [
+        352
+      ]
+    },
+    {
+      "i": 206,
+      "ab": "gp",
+      "prex": 590,
+      "name": {
+        "cn": "瓜德罗普(法国)",
+        "en": "Guadeloupe"
+      },
+      "mcc": [
+        340
+      ]
+    },
+    {
+      "i": 168,
+      "ab": "gt",
+      "prex": 502,
+      "name": {
+        "cn": "危地马拉",
+        "en": "Guatemala"
+      },
+      "mcc": [
+        704
+      ]
+    },
+    {
+      "i": 140,
+      "ab": "hn",
+      "prex": 504,
+      "name": {
+        "cn": "洪都拉斯",
+        "en": "Honduras"
+      },
+      "mcc": [
+        708
+      ]
+    },
+    {
+      "i": 8,
+      "ab": "hk",
+      "prex": 852,
+      "name": {
+        "cn": "中国香港",
+        "en": "Hongkong"
+      },
+      "mcc": [
+        454
+      ]
+    },
+    {
+      "i": 69,
+      "ab": "hu",
+      "prex": 36,
+      "name": {
+        "cn": "匈牙利",
+        "en": "Hungary"
+      },
+      "mcc": [
+        216
+      ]
+    },
+    {
+      "i": 110,
+      "ab": "is",
+      "prex": 354,
+      "name": {
+        "cn": "冰岛",
+        "en": "Iceland"
+      },
+      "mcc": [
+        274
+      ]
+    },
+    {
+      "i": 64,
+      "ab": "in",
+      "prex": 91,
+      "name": {
+        "cn": "印度",
+        "en": "India"
+      },
+      "mcc": [
+        404,
+        405,
+        406
+      ]
+    },
+    {
+      "i": 30,
+      "ab": "id",
+      "prex": 62,
+      "name": {
+        "cn": "印尼",
+        "en": "Indonesia"
+      },
+      "mcc": [
+        510
+      ]
+    },
+    {
+      "i": 109,
+      "ab": "ir",
+      "prex": 98,
+      "name": {
+        "cn": "伊朗",
+        "en": "Iran"
+      },
+      "mcc": [
+        432
+      ]
+    },
+    {
+      "i": 108,
+      "ab": "iq",
+      "prex": 964,
+      "name": {
+        "cn": "伊拉克",
+        "en": "Iraq"
+      },
+      "mcc": [
+        418
+      ]
+    },
+    {
+      "i": 106,
+      "ab": "ie",
+      "prex": 353,
+      "name": {
+        "cn": "爱尔兰",
+        "en": "Ireland"
+      },
+      "mcc": [
+        272
+      ]
+    },
+    {
+      "i": 239,
+      "ab": "fk",
+      "prex": 500,
+      "name": {
+        "cn": "福克兰群岛",
+        "en": "Islas Malvinas"
+      },
+      "mcc": [
+        750
+      ]
+    },
+    {
+      "i": 107,
+      "ab": "im",
+      "prex": 1345,
+      "name": {
+        "cn": "开曼群岛",
+        "en": "Isle of Man"
+      },
+      "mcc": [
+        346
+      ]
+    },
+    {
+      "i": 71,
+      "ab": "il",
+      "prex": 972,
+      "name": {
+        "cn": "以色列",
+        "en": "Israel"
+      },
+      "mcc": [
+        425
+      ]
+    },
+    {
+      "i": 83,
+      "ab": "it",
+      "prex": 39,
+      "name": {
+        "cn": "意大利",
+        "en": "Italy"
+      },
+      "mcc": [
+        222
+      ]
+    },
+    {
+      "i": 195,
+      "ab": "ci",
+      "prex": 225,
+      "name": {
+        "cn": "科特迪瓦",
+        "en": "Ivory Coast"
+      },
+      "mcc": [
+        612
+      ]
+    },
+    {
+      "i": 209,
+      "ab": "jm",
+      "prex": 1876,
+      "name": {
+        "cn": "牙买加",
+        "en": "Jamaica"
+      },
+      "mcc": [
+        338
+      ]
+    },
+    {
+      "i": 61,
+      "ab": "jp",
+      "prex": 81,
+      "name": {
+        "cn": "日本",
+        "en": "Japan"
+      },
+      "mcc": [
+        440,
+        441
+      ]
+    },
+    {
+      "i": 112,
+      "ab": "jo",
+      "prex": 962,
+      "name": {
+        "cn": "约旦",
+        "en": "Jordan"
+      },
+      "mcc": [
+        416
+      ]
+    },
+    {
+      "i": 59,
+      "ab": "kh",
+      "prex": 855,
+      "name": {
+        "cn": "柬埔寨",
+        "en": "Kampuchea"
+      },
+      "mcc": [
+        456
+      ]
+    },
+    {
+      "i": 115,
+      "ab": "kz",
+      "prex": 7,
+      "name": {
+        "cn": "哈萨克斯坦",
+        "en": "Kazakhstan"
+      },
+      "mcc": [
+        401
+      ]
+    },
+    {
+      "i": 23,
+      "ab": "ki",
+      "prex": 686,
+      "name": {
+        "cn": "基里巴斯",
+        "en": "Kiribati"
+      },
+      "mcc": [
+        545
+      ]
+    },
+    {
+      "i": 12,
+      "ab": "kr",
+      "prex": 82,
+      "name": {
+        "cn": "韩国",
+        "en": "Korea"
+      },
+      "mcc": [
+        450
+      ]
+    },
+    {
+      "i": 114,
+      "ab": "kw",
+      "prex": 965,
+      "name": {
+        "cn": "科威特",
+        "en": "Kuwait"
+      },
+      "mcc": [
+        419
+      ]
+    },
+    {
+      "i": 113,
+      "ab": "kg",
+      "prex": 996,
+      "name": {
+        "cn": "吉尔吉斯斯坦",
+        "en": "Kyrgyzstan"
+      },
+      "mcc": [
+        437
+      ]
+    },
+    {
+      "i": 25,
+      "ab": "la",
+      "prex": 856,
+      "name": {
+        "cn": "老挝",
+        "en": "Lao Peoples Republic"
+      },
+      "mcc": [
+        457
+      ]
+    },
+    {
+      "i": 119,
+      "ab": "lv",
+      "prex": 371,
+      "name": {
+        "cn": "拉脱维亚",
+        "en": "Latvia"
+      },
+      "mcc": [
+        247
+      ]
+    },
+    {
+      "i": 116,
+      "ab": "lb",
+      "prex": 961,
+      "name": {
+        "cn": "黎巴嫩",
+        "en": "Lebanon"
+      },
+      "mcc": [
+        415
+      ]
+    },
+    {
+      "i": 117,
+      "ab": "li",
+      "prex": 423,
+      "name": {
+        "cn": "列支顿士登",
+        "en": "Liechtenstein"
+      },
+      "mcc": [
+        295
+      ]
+    },
+    {
+      "i": 118,
+      "ab": "lt",
+      "prex": 370,
+      "name": {
+        "cn": "立陶宛",
+        "en": "Lithuania"
+      },
+      "mcc": [
+        246
+      ]
+    },
+    {
+      "i": 67,
+      "ab": "lu",
+      "prex": 352,
+      "name": {
+        "cn": "卢森堡",
+        "en": "Luxembourg"
+      },
+      "mcc": [
+        270
+      ]
+    },
+    {
+      "i": 150,
+      "ab": "mg",
+      "prex": 261,
+      "name": {
+        "cn": "马达加斯加",
+        "en": "Madagascar"
+      },
+      "mcc": [
+        646
+      ]
+    },
+    {
+      "i": 17,
+      "ab": "my",
+      "prex": 60,
+      "name": {
+        "cn": "马来西亚",
+        "en": "Malaysia"
+      },
+      "mcc": [
+        502
+      ]
+    },
+    {
+      "i": 37,
+      "ab": "mv",
+      "prex": 960,
+      "name": {
+        "cn": "马尔代夫",
+        "en": "Maldives"
+      },
+      "mcc": [
+        472
+      ]
+    },
+    {
+      "i": 124,
+      "ab": "mt",
+      "prex": 356,
+      "name": {
+        "cn": "马耳他",
+        "en": "Malta"
+      },
+      "mcc": [
+        278
+      ]
+    },
+    {
+      "i": 50,
+      "ab": "mu",
+      "prex": 230,
+      "name": {
+        "cn": "毛里求斯",
+        "en": "Mauritius"
+      },
+      "mcc": [
+        617
+      ]
+    },
+    {
+      "i": 163,
+      "ab": "mx",
+      "prex": 52,
+      "name": {
+        "cn": "墨西哥",
+        "en": "Mexico"
+      },
+      "mcc": [
+        334
+      ]
+    },
+    {
+      "i": 121,
+      "ab": "md",
+      "prex": 373,
+      "name": {
+        "cn": "摩尔多瓦",
+        "en": "Moldova"
+      },
+      "mcc": [
+        259
+      ]
+    },
+    {
+      "i": 120,
+      "ab": "mc",
+      "prex": 377,
+      "name": {
+        "cn": "摩纳哥",
+        "en": "Monaco"
+      },
+      "mcc": [
+        212
+      ]
+    },
+    {
+      "i": 60,
+      "ab": "mn",
+      "prex": 976,
+      "name": {
+        "cn": "蒙古",
+        "en": "Mongolia"
+      },
+      "mcc": [
+        428
+      ]
+    },
+    {
+      "i": 122,
+      "ab": "me",
+      "prex": 382,
+      "name": {
+        "cn": "黑山共和国",
+        "en": "Montenegro"
+      },
+      "mcc": [
+        297
+      ]
+    },
+    {
+      "i": 216,
+      "ab": "ms",
+      "prex": 1664,
+      "name": {
+        "cn": "蒙塞拉特岛",
+        "en": "Montserrat"
+      },
+      "mcc": [
+        354
+      ]
+    },
+    {
+      "i": 172,
+      "ab": "ma",
+      "prex": 212,
+      "name": {
+        "cn": "摩洛哥",
+        "en": "Morocco"
+      },
+      "mcc": [
+        604
+      ]
+    },
+    {
+      "i": 35,
+      "ab": "mm",
+      "prex": 95,
+      "name": {
+        "cn": "缅甸",
+        "en": "Myanmar"
+      },
+      "mcc": [
+        414
+      ]
+    },
+    {
+      "i": 39,
+      "ab": "np",
+      "prex": 977,
+      "name": {
+        "cn": "尼泊尔",
+        "en": "Nepal"
+      },
+      "mcc": [
+        429
+      ]
+    },
+    {
+      "i": 38,
+      "ab": "nl",
+      "prex": 31,
+      "name": {
+        "cn": "荷兰",
+        "en": "Netherlands"
+      },
+      "mcc": [
+        204
+      ]
+    },
+    {
+      "i": 20,
+      "ab": "nc",
+      "prex": 687,
+      "name": {
+        "cn": "新喀里多尼亚",
+        "en": "New Caledonia"
+      },
+      "mcc": [
+        546
+      ]
+    },
+    {
+      "i": 57,
+      "ab": "nz",
+      "prex": 64,
+      "name": {
+        "cn": "新西兰",
+        "en": "NewZealand"
+      },
+      "mcc": [
+        530
+      ]
+    },
+    {
+      "i": 81,
+      "ab": "no",
+      "prex": 47,
+      "name": {
+        "cn": "挪威",
+        "en": "Norway"
+      },
+      "mcc": [
+        242
+      ]
+    },
+    {
+      "i": 125,
+      "ab": "om",
+      "prex": 968,
+      "name": {
+        "cn": "阿曼",
+        "en": "Oman"
+      },
+      "mcc": [
+        422
+      ]
+    },
+    {
+      "i": 16,
+      "ab": "pk",
+      "prex": 92,
+      "name": {
+        "cn": "巴基斯坦",
+        "en": "Pakistan"
+      },
+      "mcc": [
+        410
+      ]
+    },
+    {
+      "i": 165,
+      "ab": "pa",
+      "prex": 507,
+      "name": {
+        "cn": "巴拿马",
+        "en": "Panama"
+      },
+      "mcc": [
+        714
+      ]
+    },
+    {
+      "i": 43,
+      "ab": "pg",
+      "prex": 675,
+      "name": {
+        "cn": "巴布亚新几内亚",
+        "en": "Papua New Guinea"
+      },
+      "mcc": [
+        537
+      ]
+    },
+    {
+      "i": 65,
+      "ab": "ph",
+      "prex": 63,
+      "name": {
+        "cn": "菲律宾",
+        "en": "Philippines"
+      },
+      "mcc": [
+        515
+      ]
+    },
+    {
+      "i": 53,
+      "ab": "pl",
+      "prex": 48,
+      "name": {
+        "cn": "波兰",
+        "en": "Poland"
+      },
+      "mcc": [
+        260
+      ]
+    },
+    {
+      "i": 77,
+      "ab": "pt",
+      "prex": 351,
+      "name": {
+        "cn": "葡萄牙",
+        "en": "Portugal"
+      },
+      "mcc": [
+        268
+      ]
+    },
+    {
+      "i": 127,
+      "ab": "qa",
+      "prex": 974,
+      "name": {
+        "cn": "卡塔尔",
+        "en": "Qatar"
+      },
+      "mcc": [
+        427
+      ]
+    },
+    {
+      "i": 142,
+      "ab": "cm",
+      "prex": 237,
+      "name": {
+        "cn": "喀麦隆",
+        "en": "Republic of Cameroon"
+      },
+      "mcc": [
+        624
+      ]
+    },
+    {
+      "i": 149,
+      "ab": "cr",
+      "prex": 506,
+      "name": {
+        "cn": "哥斯达黎加",
+        "en": "Republic of Costa Rica"
+      },
+      "mcc": [
+        712
+      ]
+    },
+    {
+      "i": 160,
+      "ab": "gh",
+      "prex": 233,
+      "name": {
+        "cn": "加纳",
+        "en": "Republic of Ghana"
+      },
+      "mcc": [
+        620
+      ]
+    },
+    {
+      "i": 139,
+      "ab": "sn",
+      "prex": 221,
+      "name": {
+        "cn": "塞内加尔共和国",
+        "en": "Republic of Senegal"
+      },
+      "mcc": [
+        608
+      ]
+    },
+    {
+      "i": 228,
+      "ab": "sc",
+      "prex": 248,
+      "name": {
+        "cn": "塞舌尔",
+        "en": "Republic of Seychelles"
+      },
+      "mcc": [
+        633
+      ]
+    },
+    {
+      "i": 154,
+      "ab": "cg",
+      "prex": 242,
+      "name": {
+        "cn": "刚果(布)",
+        "en": "Republic of the Congo"
+      },
+      "mcc": [
+        629
+      ]
+    },
+    {
+      "i": 157,
+      "ab": "sd",
+      "prex": 249,
+      "name": {
+        "cn": "苏丹",
+        "en": "Republic of the Sudan"
+      },
+      "mcc": [
+        634
+      ]
+    },
+    {
+      "i": 74,
+      "ab": "tr",
+      "prex": 90,
+      "name": {
+        "cn": "土耳其共和国",
+        "en": "Republic of Turkey"
+      },
+      "mcc": [
+        286
+      ]
+    },
+    {
+      "i": 180,
+      "ab": "zw",
+      "prex": 263,
+      "name": {
+        "cn": "津巴布韦共和国",
+        "en": "Republic of Zimbabwe"
+      },
+      "mcc": [
+        648
+      ]
+    },
+    {
+      "i": 176,
+      "ab": "sr",
+      "prex": 597,
+      "name": {
+        "cn": "苏里南",
+        "en": "Republiek Suriname"
+      },
+      "mcc": [
+        746
+      ]
+    },
+    {
+      "i": 221,
+      "ab": "re",
+      "prex": 262,
+      "name": {
+        "cn": "留尼旺",
+        "en": "Reunion Island"
+      },
+      "mcc": [
+        647
+      ]
+    },
+    {
+      "i": 80,
+      "ab": "ro",
+      "prex": 40,
+      "name": {
+        "cn": "罗马尼亚",
+        "en": "Romania"
+      },
+      "mcc": [
+        226
+      ]
+    },
+    {
+      "i": 78,
+      "ab": "ru",
+      "prex": 7,
+      "name": {
+        "cn": "俄罗斯",
+        "en": "Russia"
+      },
+      "mcc": [
+        250
+      ]
+    },
+    {
+      "i": 224,
+      "ab": "lc",
+      "prex": 1758,
+      "name": {
+        "cn": "圣卢西亚",
+        "en": "Saint Lucia"
+      },
+      "mcc": [
+        358
+      ]
+    },
+    {
+      "i": 225,
+      "ab": "pm",
+      "prex": 508,
+      "name": {
+        "cn": "圣皮耶与密克隆群岛",
+        "en": "Saint Pierre et Miquelon"
+      },
+      "mcc": [
+        308
+      ]
+    },
+    {
+      "i": 226,
+      "ab": "vc",
+      "prex": 1784,
+      "name": {
+        "cn": "圣文森特和格林纳丁斯",
+        "en": "Saint Vincent and the Gre"
+      },
+      "mcc": [
+        360
+      ]
+    },
+    {
+      "i": 174,
+      "ab": "sv",
+      "prex": 503,
+      "name": {
+        "cn": "萨尔瓦多",
+        "en": "Salvador"
+      },
+      "mcc": [
+        706
+      ]
+    },
+    {
+      "i": 49,
+      "ab": "ws",
+      "prex": 685,
+      "name": {
+        "cn": "西萨摩亚",
+        "en": "Samoa"
+      },
+      "mcc": [
+        549
+      ]
+    },
+    {
+      "i": 132,
+      "ab": "sm",
+      "prex": 378,
+      "name": {
+        "cn": "圣马力诺",
+        "en": "San Marino"
+      },
+      "mcc": [
+        292
+      ]
+    },
+    {
+      "i": 129,
+      "ab": "sa",
+      "prex": 966,
+      "name": {
+        "cn": "沙特阿拉伯",
+        "en": "Saudi Arabia"
+      },
+      "mcc": [
+        420
+      ]
+    },
+    {
+      "i": 128,
+      "ab": "rs",
+      "prex": 381,
+      "name": {
+        "cn": "塞尔维亚",
+        "en": "Serbia"
+      },
+      "mcc": [
+        220
+      ]
+    },
+    {
+      "i": 18,
+      "ab": "sg",
+      "prex": 65,
+      "name": {
+        "cn": "新加坡",
+        "en": "Singapore"
+      },
+      "mcc": [
+        525
+      ]
+    },
+    {
+      "i": 131,
+      "ab": "sk",
+      "prex": 421,
+      "name": {
+        "cn": "斯洛伐克",
+        "en": "Slovak Republic"
+      },
+      "mcc": [
+        231
+      ]
+    },
+    {
+      "i": 130,
+      "ab": "si",
+      "prex": 386,
+      "name": {
+        "cn": "斯洛文尼亚",
+        "en": "Slovenia"
+      },
+      "mcc": [
+        293
+      ]
+    },
+    {
+      "i": 68,
+      "ab": "es",
+      "prex": 34,
+      "name": {
+        "cn": "西班牙",
+        "en": "Spain"
+      },
+      "mcc": [
+        214
+      ]
+    },
+    {
+      "i": 22,
+      "ab": "lk",
+      "prex": 94,
+      "name": {
+        "cn": "斯里兰卡",
+        "en": "Sri Lanka"
+      },
+      "mcc": [
+        413
+      ]
+    },
+    {
+      "i": 211,
+      "ab": "ly",
+      "prex": 218,
+      "name": {
+        "cn": "利比亚",
+        "en": "State of Libya"
+      },
+      "mcc": [
+        606
+      ]
+    },
+    {
+      "i": 46,
+      "ab": "se",
+      "prex": 46,
+      "name": {
+        "cn": "瑞典",
+        "en": "Sweden"
+      },
+      "mcc": [
+        240
+      ]
+    },
+    {
+      "i": 73,
+      "ab": "ch",
+      "prex": 41,
+      "name": {
+        "cn": "瑞士",
+        "en": "Switzerland"
+      },
+      "mcc": [
+        228
+      ]
+    },
+    {
+      "i": 133,
+      "ab": "sy",
+      "prex": 963,
+      "name": {
+        "cn": "叙利亚",
+        "en": "Syria"
+      },
+      "mcc": [
+        417
+      ]
+    },
+    {
+      "i": 10,
+      "ab": "tw",
+      "prex": 886,
+      "name": {
+        "cn": "中国台湾",
+        "en": "TaiWan"
+      },
+      "mcc": [
+        466
+      ]
+    },
+    {
+      "i": 134,
+      "ab": "tj",
+      "prex": 992,
+      "name": {
+        "cn": "塔吉克斯坦",
+        "en": "Tajikistan"
+      },
+      "mcc": [
+        436
+      ]
+    },
+    {
+      "i": 169,
+      "ab": "tz",
+      "prex": 255,
+      "name": {
+        "cn": "坦桑尼亚",
+        "en": "Tanzania"
+      },
+      "mcc": [
+        640
+      ]
+    },
+    {
+      "i": 63,
+      "ab": "th",
+      "prex": 66,
+      "name": {
+        "cn": "泰国",
+        "en": "Thailand"
+      },
+      "mcc": [
+        520
+      ]
+    },
+    {
+      "i": 193,
+      "ab": "cf",
+      "prex": 236,
+      "name": {
+        "cn": "中非共和国",
+        "en": "The Central African Repub"
+      },
+      "mcc": [
+        623
+      ]
+    },
+    {
+      "i": 198,
+      "ab": "dm",
+      "prex": 1767,
+      "name": {
+        "cn": "多米尼克",
+        "en": "The Commonwealth of Domin"
+      },
+      "mcc": [
+        366
+      ]
+    },
+    {
+      "i": 164,
+      "ab": "pr",
+      "prex": 1787,
+      "name": {
+        "cn": "波多黎各",
+        "en": "The Commonwealth of Puert"
+      },
+      "mcc": [
+        330
+      ]
+    },
+    {
+      "i": 155,
+      "ab": "cd",
+      "prex": 243,
+      "name": {
+        "cn": "刚果(金)",
+        "en": "The Democratic Republic o"
+      },
+      "mcc": [
+        630
+      ]
+    },
+    {
+      "i": 223,
+      "ab": "kn",
+      "prex": 1869,
+      "name": {
+        "cn": "圣基茨和尼维斯",
+        "en": "The Federation of Saint K"
+      },
+      "mcc": [
+        356
+      ]
+    },
+    {
+      "i": 203,
+      "ab": "ga",
+      "prex": 241,
+      "name": {
+        "cn": "加蓬",
+        "en": "The Gabonese Republic"
+      },
+      "mcc": [
+        628
+      ]
+    },
+    {
+      "i": 215,
+      "ab": "mr",
+      "prex": 222,
+      "name": {
+        "cn": "毛里塔尼亚",
+        "en": "The Islamic Republic of M"
+      },
+      "mcc": [
+        609
+      ]
+    },
+    {
+      "i": 210,
+      "ab": "ls",
+      "prex": 266,
+      "name": {
+        "cn": "莱索托",
+        "en": "The Kingdom of Lesotho"
+      },
+      "mcc": [
+        651
+      ]
+    },
+    {
+      "i": 231,
+      "ab": "sz",
+      "prex": 268,
+      "name": {
+        "cn": "斯威士兰",
+        "en": "The Kingdom of Swaziland"
+      },
+      "mcc": [
+        653
+      ]
+    },
+    {
+      "i": 144,
+      "ab": "ao",
+      "prex": 244,
+      "name": {
+        "cn": "安哥拉",
+        "en": "The Republic of Angola"
+      },
+      "mcc": [
+        631
+      ]
+    },
+    {
+      "i": 186,
+      "ab": "bj",
+      "prex": 229,
+      "name": {
+        "cn": "贝宁",
+        "en": "The Republic of Benin"
+      },
+      "mcc": [
+        616
+      ]
+    },
+    {
+      "i": 188,
+      "ab": "bw",
+      "prex": 267,
+      "name": {
+        "cn": "博茨瓦纳",
+        "en": "The Republic of Botswana"
+      },
+      "mcc": [
+        652
+      ]
+    },
+    {
+      "i": 191,
+      "ab": "bi",
+      "prex": 257,
+      "name": {
+        "cn": "布隆迪",
+        "en": "The Republic of Burundi"
+      },
+      "mcc": [
+        642
+      ]
+    },
+    {
+      "i": 192,
+      "ab": "cv",
+      "prex": 238,
+      "name": {
+        "cn": "佛得角",
+        "en": "The Republic of Cape Verd"
+      },
+      "mcc": [
+        625
+      ]
+    },
+    {
+      "i": 237,
+      "ab": "td",
+      "prex": 235,
+      "name": {
+        "cn": "乍得",
+        "en": "The Republic of Chad"
+      },
+      "mcc": [
+        622
+      ]
+    },
+    {
+      "i": 197,
+      "ab": "dj",
+      "prex": 253,
+      "name": {
+        "cn": "吉布提",
+        "en": "The Republic of Djibouti"
+      },
+      "mcc": [
+        638
+      ]
+    },
+    {
+      "i": 161,
+      "ab": "ec",
+      "prex": 593,
+      "name": {
+        "cn": "厄瓜多尔",
+        "en": "The Republic of Ecuador"
+      },
+      "mcc": [
+        740
+      ]
+    },
+    {
+      "i": 200,
+      "ab": "gq",
+      "prex": 240,
+      "name": {
+        "cn": "赤道几内亚",
+        "en": "The Republic of Equatoria"
+      },
+      "mcc": [
+        627
+      ]
+    },
+    {
+      "i": 207,
+      "ab": "gn",
+      "prex": 224,
+      "name": {
+        "cn": "几内亚",
+        "en": "The Republic of Guinea"
+      },
+      "mcc": [
+        611
+      ]
+    },
+    {
+      "i": 208,
+      "ab": "gw",
+      "prex": 245,
+      "name": {
+        "cn": "几内亚比绍",
+        "en": "The Republic of Guinea-Bi"
+      },
+      "mcc": [
+        632
+      ]
+    },
+    {
+      "i": 238,
+      "ab": "gy",
+      "prex": 592,
+      "name": {
+        "cn": "圭亚那",
+        "en": "The Republic of Guyana"
+      },
+      "mcc": [
+        738
+      ]
+    },
+    {
+      "i": 178,
+      "ab": "ht",
+      "prex": 509,
+      "name": {
+        "cn": "海地",
+        "en": "The Republic of Haiti"
+      },
+      "mcc": [
+        372
+      ]
+    },
+    {
+      "i": 145,
+      "ab": "ke",
+      "prex": 254,
+      "name": {
+        "cn": "肯尼亚",
+        "en": "The Republic of Kenya"
+      },
+      "mcc": [
+        639
+      ]
+    },
+    {
+      "i": 181,
+      "ab": "lr",
+      "prex": 231,
+      "name": {
+        "cn": "利比里亚共和国",
+        "en": "The Republic of Liberia"
+      },
+      "mcc": [
+        618
+      ]
+    },
+    {
+      "i": 212,
+      "ab": "mw",
+      "prex": 265,
+      "name": {
+        "cn": "马拉维",
+        "en": "The Republic of Malawi"
+      },
+      "mcc": [
+        650
+      ]
+    },
+    {
+      "i": 213,
+      "ab": "ml",
+      "prex": 223,
+      "name": {
+        "cn": "马里共和国",
+        "en": "The Republic of Mali"
+      },
+      "mcc": [
+        610
+      ]
+    },
+    {
+      "i": 148,
+      "ab": "mh",
+      "prex": 692,
+      "name": {
+        "cn": "马绍尔群岛共和国",
+        "en": "The Republic of Marshall"
+      },
+      "mcc": [
+        551
+      ]
+    },
+    {
+      "i": 217,
+      "ab": "mz",
+      "prex": 258,
+      "name": {
+        "cn": "莫桑比克",
+        "en": "The Republic of Mozambiqu"
+      },
+      "mcc": [
+        643
+      ]
+    },
+    {
+      "i": 218,
+      "ab": "na",
+      "prex": 264,
+      "name": {
+        "cn": "纳米比亚",
+        "en": "The Republic of Namibia"
+      },
+      "mcc": [
+        649
+      ]
+    },
+    {
+      "i": 177,
+      "ab": "ni",
+      "prex": 505,
+      "name": {
+        "cn": "尼加拉瓜",
+        "en": "The Republic of Nicaragua"
+      },
+      "mcc": [
+        710
+      ]
+    },
+    {
+      "i": 219,
+      "ab": "ne",
+      "prex": 227,
+      "name": {
+        "cn": "尼日尔",
+        "en": "The Republic of Niger"
+      },
+      "mcc": [
+        614
+      ]
+    },
+    {
+      "i": 220,
+      "ab": "py",
+      "prex": 595,
+      "name": {
+        "cn": "巴拉圭",
+        "en": "The Republic of Paraguay"
+      },
+      "mcc": [
+        744
+      ]
+    },
+    {
+      "i": 156,
+      "ab": "pe",
+      "prex": 51,
+      "name": {
+        "cn": "秘鲁",
+        "en": "The Republic of Peru"
+      },
+      "mcc": [
+        716
+      ]
+    },
+    {
+      "i": 222,
+      "ab": "rw",
+      "prex": 260,
+      "name": {
+        "cn": "卢旺达",
+        "en": "The Republic of Rwanda"
+      },
+      "mcc": [
+        635
+      ]
+    },
+    {
+      "i": 229,
+      "ab": "sl",
+      "prex": 232,
+      "name": {
+        "cn": "塞拉利昂共和国",
+        "en": "The Republic of Sierra Le"
+      },
+      "mcc": [
+        619
+      ]
+    },
+    {
+      "i": 141,
+      "ab": "za",
+      "prex": 27,
+      "name": {
+        "cn": "南非",
+        "en": "The Republic of South Afr"
+      },
+      "mcc": [
+        655
+      ]
+    },
+    {
+      "i": 204,
+      "ab": "gm",
+      "prex": 220,
+      "name": {
+        "cn": "冈比亚",
+        "en": "The Republic of the Gambi"
+      },
+      "mcc": [
+        607
+      ]
+    },
+    {
+      "i": 232,
+      "ab": "tg",
+      "prex": 228,
+      "name": {
+        "cn": "多哥",
+        "en": "The Republic of Togo, La"
+      },
+      "mcc": [
+        615
+      ]
+    },
+    {
+      "i": 233,
+      "ab": "tn",
+      "prex": 216,
+      "name": {
+        "cn": "突尼斯",
+        "en": "The Republic of Tunisia"
+      },
+      "mcc": [
+        605
+      ]
+    },
+    {
+      "i": 234,
+      "ab": "ug",
+      "prex": 256,
+      "name": {
+        "cn": "乌干达",
+        "en": "The Republic of Uganda"
+      },
+      "mcc": [
+        641
+      ]
+    },
+    {
+      "i": 143,
+      "ab": "zm",
+      "prex": 260,
+      "name": {
+        "cn": "赞比亚",
+        "en": "The Republic of Zambia"
+      },
+      "mcc": [
+        645
+      ]
+    },
+    {
+      "i": 230,
+      "ab": "so",
+      "prex": 252,
+      "name": {
+        "cn": "索马里",
+        "en": "The Somalia Democratic Re"
+      },
+      "mcc": [
+        637
+      ]
+    },
+    {
+      "i": 236,
+      "ab": "tc",
+      "prex": 1649,
+      "name": {
+        "cn": "特克斯和凯科斯群岛",
+        "en": "The Turks and Caicos Isla"
+      },
+      "mcc": [
+        376
+      ]
+    },
+    {
+      "i": 15,
+      "ab": "to",
+      "prex": 676,
+      "name": {
+        "cn": "汤加",
+        "en": "Tonga"
+      },
+      "mcc": [
+        539
+      ]
+    },
+    {
+      "i": 105,
+      "ab": "hr",
+      "prex": 385,
+      "name": {
+        "cn": "克罗地亚",
+        "en": "Toronto Croatia"
+      },
+      "mcc": [
+        219
+      ]
+    },
+    {
+      "i": 162,
+      "ab": "tt",
+      "prex": 1868,
+      "name": {
+        "cn": "特立尼达和多巴哥",
+        "en": "Trinidad and Tobago"
+      },
+      "mcc": [
+        374
+      ]
+    },
+    {
+      "i": 135,
+      "ab": "tm",
+      "prex": 993,
+      "name": {
+        "cn": "土库曼斯坦",
+        "en": "Turkmenistan"
+      },
+      "mcc": [
+        438
+      ]
+    },
+    {
+      "i": 66,
+      "ab": "ua",
+      "prex": 380,
+      "name": {
+        "cn": "乌克兰",
+        "en": "Ukraine"
+      },
+      "mcc": [
+        255
+      ]
+    },
+    {
+      "i": 194,
+      "ab": "km",
+      "prex": 269,
+      "name": {
+        "cn": "科摩罗",
+        "en": "Union of Comoros"
+      },
+      "mcc": [
+        654
+      ]
+    },
+    {
+      "i": 11,
+      "ab": "us",
+      "prex": 1,
+      "name": {
+        "cn": "美国",
+        "en": "United States"
+      },
+      "mcc": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316
+      ]
+    },
+    {
+      "i": 85,
+      "ab": "ae",
+      "prex": 971,
+      "name": {
+        "cn": "阿联酋",
+        "en": "Unitedemirates"
+      },
+      "mcc": [
+        424,
+        430,
+        431
+      ]
+    },
+    {
+      "i": 153,
+      "ab": "uy",
+      "prex": 598,
+      "name": {
+        "cn": "乌拉圭",
+        "en": "Uruguay"
+      },
+      "mcc": [
+        748
+      ]
+    },
+    {
+      "i": 137,
+      "ab": "uz",
+      "prex": 998,
+      "name": {
+        "cn": "乌兹别克斯坦",
+        "en": "Uzbekistan"
+      },
+      "mcc": [
+        434
+      ]
+    },
+    {
+      "i": 48,
+      "ab": "vu",
+      "prex": 678,
+      "name": {
+        "cn": "瓦努阿图",
+        "en": "Vanuatu"
+      },
+      "mcc": [
+        541
+      ]
+    },
+    {
+      "i": 152,
+      "ab": "ve",
+      "prex": 58,
+      "name": {
+        "cn": "委内瑞拉",
+        "en": "Venezuela"
+      },
+      "mcc": [
+        734
+      ]
+    },
+    {
+      "i": 21,
+      "ab": "vn",
+      "prex": 84,
+      "name": {
+        "cn": "越南",
+        "en": "Vietnam"
+      },
+      "mcc": [
+        452
+      ]
+    },
+    {
+      "i": 138,
+      "ab": "ye",
+      "prex": 967,
+      "name": {
+        "cn": "也门",
+        "en": "Yemen"
+      },
+      "mcc": [
+        421
+      ]
+    }
+  ]
+}

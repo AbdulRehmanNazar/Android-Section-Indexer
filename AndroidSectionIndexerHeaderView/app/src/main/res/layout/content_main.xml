@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <com.enode.android.sectionindexer.headerview.CustomListView.PinnedHeaderPullToRefreshSwipeMenuListView
+        android:id="@+id/friends_display"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="#000000"
+        android:dividerHeight="1px" />
+
+    <com.enode.android.sectionindexer.headerview.SectionIndexer.SideBladeView
+        android:id="@+id/friends_myletterlistview"
+        android:layout_width="30dip"
+        android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
+        android:background="#00000000" />
+
+</RelativeLayout>
